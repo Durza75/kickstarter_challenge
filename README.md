@@ -1,3 +1,12 @@
-# kickstarter_challenge
+# Kickstarter Challenge
 
-this is where you write your written analysis and include screenshots
+This is where you write your written analysis and include 
+* point number one
+* point number two
+* point number three
+
+![screenshots](Screenshot.png)
+
+
+
+
