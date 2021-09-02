@@ -1,6 +1,3 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
-
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -41,13 +38,5 @@ One of the limitations is that although we can filter by countries, we are unabl
 - What are some other possible tables and/or graphs that we could create?
 
 A useful table we could create would be one based on the timeline of the campaign and of the amount of time they gave themselves as a deadline. We have the data under columns I (deadline) and J (launched_at). Based on a shorter or larger timeframe before the deaddline, there would almost certainly be a correlation between how much time they had and whether it was successful.
-
-
-
-
-
-
-
-
 
 
