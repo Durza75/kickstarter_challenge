@@ -9,7 +9,7 @@ The purpose of this project is to assist Louise in her crowd funding campaign to
 ### Analysis of Outcomes Based on Launch Date
 As shown below, we can see that the month of May tends to have the highest number of successful campaigns, as compared to December, where there is a significant drop. Louise would also do well to be wary of fundraising between September and October, as there is a drop in successful campaigns in the former and a rise in failures in the latter.
 
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 
 
@@ -18,7 +18,7 @@ As shown below, we can see that the month of May tends to have the highest numbe
 The data suggests that a fundraising goal of more than $45,0000 will almost certainly result in a failed project. The data suggests that a fundraising goal of up to $10,000 is realistic. Interestingly, there is also a larger percentage of successful campaigns between $35,000 and $
 40,000 - perhaps indicating a good balance between a high goal and how realistic it would be to achieve in the minds of the donors, thus leading to a succcessful campaign.
 
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One of the main challenges with this project has been using GitHub and GitBash to upload the project, as well as the process involved with downloading the SSH key. Having never used any of these systems before, many hours were spent figuring out how it all comes together. After reserving an hour session with a tutor, an SSH key was successfully set up and all the programs thoroughly explained. 
